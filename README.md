@@ -1,13 +1,9 @@
 # Hey, I'm Mkhanyisi 👋🏾
 
-Software engineer from Eswatini 🇸🇿 (formerly Swaziland).
+Software engineer from Eswatini 🇸🇿 (formerly Swaziland), curious about backend systems, data, machine learning, and building things that make life simpler.
 
-I build across **full-stack applications, backend systems, data engineering, and applied ML**. Curious about AI, systems design, and making complicated things simple.
+Always happy to chat about code, past projects, or exchange ideas.
 
-Always happy to share ideas and discuss past projects, engineering experiences, or what I'm exploring next.
-
-Outside of code: ⚽ soccer, 🎵 music, 🏋🏾‍♂️ fitness, and a little adventure.
-
-Always up for a good technical discussion, a Real Madrid debate, or defending my NBA hot takes. ⚽🏀
+Away from the screen, it's soccer, gym, music, travel, and occasionally defending my Real Madrid and NBA hot takes. ⚽🏀
 
 **Let's connect:** [Portfolio](https://mkhanyisi.xyz) · [LinkedIn](https://www.linkedin.com/in/mkhanyisifabo/)
